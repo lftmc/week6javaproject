@@ -28,7 +28,7 @@ public class App {
 		
 		//flipping cards for each round
 		
-		for (int round = 1; round < 26; round++) {
+		for (int round = 1; round < 27; round++) {
 			System.out.println("********************************");
 			System.out.println("Round:" +round);
 			Card p1value = player1.flip();
